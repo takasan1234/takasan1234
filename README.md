@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Links
-- [ノートモ (NoteMo) - App Store](https://apps.apple.com/jp/app/)  
+- [ノートモ (NoteMo) - App Store](https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%A2/id6743961225)  
 - [GPAナビ (GPA Survey)](https://gpa-survey.com)  
 - [Twitter - スミレ阪大情報局](https://twitter.com/)  
 
@@ -29,7 +29,7 @@
 ### ノートモ (NoteMo)
 学習ノート共有アプリ。  
 iOSアプリをリリース済み、Web版も開発中。  
-- [App Store リンク](https://apps.apple.com/jp/app/)  
+- [App Store リンク](https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%A2/id6743961225)  
 
 ### GPAナビ (GPA Survey)
 大学生向けに GPA 分布を可視化する Web サービス。  
@@ -49,11 +49,11 @@ iOSアプリをリリース済み、Web版も開発中。
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsujitakaya&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsujitakaya&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takasan1234&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takasan1234&layout=compact)  
 
 ---
 
 ## 📫 Contact
-- GitHub: [@tsujitakaya](https://github.com/tsujitakaya)  
-- Twitter: [スミレ阪大情報局](https://twitter.com/)  
+- GitHub: [@takasan1234](https://github.com/takasan1234)  
+- Twitter: [スミレ阪大情報局](https://x.com/osaka89466)  
