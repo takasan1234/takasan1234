@@ -18,10 +18,9 @@
   - フロントエンド: TypeScript / React / Next.js / SwiftUI  
   - バックエンド: Django REST Framework / Flask  
   - インフラ: AWS (EC2, S3, RDS), Docker, Nginx, Gunicorn, MySQL/PostgreSQL  
-
-- **スタンス**:  
-  必要な技術はその都度キャッチアップし、AI時代に適応できる起業家としての活動に重点を置いています。  
-
+- **知見のある分野**:  
+  - 機械学習: PyTorch / TensorFlow  
+  - データマイニング: scikit-learn を用いたデータ分析
 ---
 
 ## 🚀 Projects
@@ -45,12 +44,6 @@ iOSアプリをリリース済み、Web版も開発中。
 - **2025年7月**: ノートモ iOSアプリ正式リリース  
 - **2025年8月**: Booming! アクセラレータ 採択  
 - **2025年9月**: GPAナビ 公開、公開から1日で利用者1000人突破  
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takasan1234&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takasan1234&layout=compact)  
 
 ---
 
