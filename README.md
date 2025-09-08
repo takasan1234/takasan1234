@@ -7,8 +7,8 @@
 ---
 
 ## 🌐 Links
-- [ノートモ (NoteMo) - App Store](https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%A2/id6743961225)  
-- [GPAナビ (GPA Survey)](https://gpa-survey.com)  
+- [ノートモ - App Store](https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%A2/id6743961225)  
+- [GPAナビ](https://gpa-survey.com)  
 - [Twitter - スミレ阪大情報局](https://twitter.com/)  
 
 ---
