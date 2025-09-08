@@ -25,12 +25,12 @@
 
 ## 🚀 Projects
 
-### ノートモ (NoteMo)
+### ノートモ
 学習ノート共有アプリ。  
 iOSアプリをリリース済み、Web版も開発中。  
 - [App Store リンク](https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%A2/id6743961225)  
 
-### GPAナビ (GPA Survey)
+### GPAナビ
 大学生向けに GPA 分布を可視化する Web サービス。  
 公開からわずか1日で **利用者1000人** を突破。  
 - [公式サイト](https://gpa-survey.com)  
