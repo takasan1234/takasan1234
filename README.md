@@ -17,7 +17,7 @@
 - **得意分野**:  
   - フロントエンド: TypeScript / React / Next.js / SwiftUI  
   - バックエンド: Django REST Framework / Flask  
-  - インフラ: AWS (EC2, S3, RDS), Docker, Nginx, Gunicorn, MySQL/PostgreSQL  
+  - インフラ: AWS (EC2, S3, RDS, CloudFront等々), Docker, Nginx, Gunicorn, MySQL/PostgreSQL  
 - **知見のある分野**:  
   - 機械学習: PyTorch / TensorFlow  
   - データマイニング: scikit-learn を用いたデータ分析
