@@ -36,16 +36,16 @@
 
 - [App Store リンク](https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%A2/id6743961225)
 
-<img width="280" height="280" alt="ノートモ ロゴ" src="https://github.com/user-attachments/assets/e7bdf0eb-786b-4ddd-852d-b380bdfa2ae2" />
+<img width="210" height="210" alt="ノートモ ロゴ" src="https://github.com/user-attachments/assets/e7bdf0eb-786b-4ddd-852d-b380bdfa2ae2" />
 
-<img width="400" heitht="280" alt="スクリーンショット 2025-07-18 12 54 26" src="https://github.com/user-attachments/assets/f490149f-e486-454d-8932-411f94d2486a" />
+<img width="300" heitht="210" alt="スクリーンショット 2025-07-18 12 54 26" src="https://github.com/user-attachments/assets/f490149f-e486-454d-8932-411f94d2486a" />
 
 ### GPAナビ
 大学生向けに GPA 分布を可視化する Web サービス。  
 公開からわずか1日で **利用者1000人** を突破。  
 - [公式サイト](https://gpa-survey.com)
   
-<img width="862" height="720" alt="スクリーンショット 2025-09-08 20 31 02" src="https://github.com/user-attachments/assets/75d80b6c-8c66-4d89-86ed-14ee67044764" />
+<img height="480" alt="スクリーンショット 2025-09-08 20 31 02" src="https://github.com/user-attachments/assets/75d80b6c-8c66-4d89-86ed-14ee67044764" />
 
 
 ---
