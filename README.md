@@ -16,7 +16,7 @@
 ## 💻 Skills
 - **得意分野**:  
   - フロントエンド: TypeScript / React / Next.js / SwiftUI  
-  - バックエンド: Django REST Framework / Flask  
+  - バックエンド: Django REST Framework / Flask  Express.js
   - インフラ: AWS (EC2, S3, RDS, CloudFront等々), Docker, Nginx, Gunicorn, MySQL/PostgreSQL  
 - **知見のある分野**:  
   - 機械学習: PyTorch / TensorFlow  
