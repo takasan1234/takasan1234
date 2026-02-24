@@ -16,7 +16,7 @@
 ## 💻 Skills
 - **得意分野**:  
   - フロントエンド: TypeScript / React / Next.js / SwiftUI  
-  - バックエンド: Django REST Framework / Flask  Express.js
+  - バックエンド: Django REST Framework / Flask / Express.js
   - インフラ: AWS (EC2, S3, RDS, CloudFront等々), Docker, Nginx, Gunicorn, MySQL/PostgreSQL  
 - **知見のある分野**:  
   - 機械学習: PyTorch / TensorFlow  
@@ -43,7 +43,7 @@
 ### GPAナビ
 大学生向けに GPA 分布を可視化する Web サービス。  
 公開からわずか1日で **利用者1000人** を突破。  
-- [公式サイト](https://gpa-survey.com)
+- [公式サイト](https://gpa-navi.com)
   
 <img height="480" alt="スクリーンショット 2025-09-08 20 31 02" src="https://github.com/user-attachments/assets/75d80b6c-8c66-4d89-86ed-14ee67044764" />
 
