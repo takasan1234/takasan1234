@@ -1,71 +1,45 @@
-# Takaya Tsuji
+# Hey, I'm Takaya! 👋
 
-大阪大学 工学部 在籍。 
-学習プラットフォーム「ノートモ」の開発・運営を中心に、ソフトウェアエンジニアとしての実務経験と、スタートアップ経営の両面で活動しています。  
-エンジニアとしての技術力を土台に、経営者として挑戦を続けています。  
+> 企画から本番運用まで、一人で回すフルスタックエンジニア
 
-# 仲間の募集 農業×エンジニア
-この度，農業事業を立ち上げます．
-メンバーを募集しています．
+大阪大学 工学部 4年。学生団体を立ち上げて、大学生向けの GPA 診断サービス **GPAナビ** を作っています。いまは **1 万人規模**のサービスです。
+インターンでは 3 年半、受託の業務システムや、**生成 AI で書類を作るシステム**を開発してきました。
+2026 年は **GDGoC Japan DevFest Hackathon 2026** で決勝に進みました。
 
-ご興味のある方は，X(@takaya499)にてDMください．
-
----
-
-## 🌐 Links
-- [ノートモ - App Store](https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%A2/id6743961225)  
-- [GPAナビ](https://gpa-survey.com)  
-- [Twitter - スミレ阪大情報局](https://twitter.com/)  
+[![X](https://img.shields.io/badge/X-@takaya499-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/takaya499)
+![Location](https://img.shields.io/badge/Osaka-Japan-2f6fd1?style=for-the-badge)
 
 ---
 
-## 💻 Skills
-- **得意分野**:  
-  - フロントエンド: TypeScript / React / Next.js / SwiftUI  
-  - バックエンド: Django REST Framework / Flask / Express.js
-  - インフラ: AWS (EC2, S3, RDS, CloudFront等々), Docker, Nginx, Gunicorn, MySQL/PostgreSQL  
-- **知見のある分野**:  
-  - 機械学習: PyTorch / TensorFlow  
-  - データマイニング: scikit-learn を用いたデータ分析
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Projects
+**🚀 Building**
 
-### ノートモ
+• **GPAナビ** ― 大学生向けの GPA 診断サービス。要件定義から運用まで一人で担当<br>
+• **介護の書類 AI** ― 面談の録音から、AI がケアマネジャーの書類を下書き<br>
+• **旅のアルバム** ― LINE グループの動画を自動で保存して、アルバムにするアプリ
 
-> 学びの遠回りを、経験知の共有で減らす。
+</td>
+<td width="50%" valign="top">
 
-ノートモは、学生の学びをノートという形でつなぐプラットフォームです。  
-誰かの努力が、別の誰かの助けになる。  
-ノートを共有することで、学びが加速し、次の挑戦へ進みやすくなる。  
-教育のかたちを変える最初の一歩が、ここから始まります。  
+**🏆 Highlights**
 
-- [App Store リンク](https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%A2/id6743961225)
+• 2026.11 ― GDGoC Japan DevFest Hackathon 2026 決勝進出<br>
+• 2025.09 ― GPAナビ 公開、1 日で利用者 1,000 人<br>
+• 2025.08 ― Booming! アクセラレータ 採択<br>
+• 2025.07 ― iOS アプリ「ノートモ」を App Store で公開
 
-<img width="210" height="210" alt="ノートモ ロゴ" src="https://github.com/user-attachments/assets/e7bdf0eb-786b-4ddd-852d-b380bdfa2ae2" />
+</td>
+</tr>
+</table>
 
-<img width="300" heitht="210" alt="スクリーンショット 2025-07-18 12 54 26" src="https://github.com/user-attachments/assets/f490149f-e486-454d-8932-411f94d2486a" />
+### Tech Stack
 
-### GPAナビ
-大学生向けに GPA 分布を可視化する Web サービス。  
-公開からわずか1日で **利用者1000人** を突破。  
-- [公式サイト](https://gpa-navi.com)
-  
-<img height="480" alt="スクリーンショット 2025-09-08 20 31 02" src="https://github.com/user-attachments/assets/75d80b6c-8c66-4d89-86ed-14ee67044764" />
-
+<img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,tailwind,django,nodejs,postgres,prisma,cloudflare,aws,gcp,docker,githubactions&perline=14" alt="Tech Stack" />
 
 ---
 
-## 📅 Timeline
-
-- **2024年8月**: ノートモ 構想開始  
-- **2025年5月**: ノートモ βテスト開始  
-- **2025年7月**: ノートモ iOSアプリ正式リリース  
-- **2025年8月**: Booming! アクセラレータ 採択  
-- **2025年9月**: GPAナビ 公開、公開から1日で利用者1000人突破  
-
----
-
-## 📫 Contact
-- GitHub: [@takasan1234](https://github.com/takasan1234)  
-- Twitter: [スミレ阪大情報局](https://x.com/osaka89466)  
+- 💬 お仕事のご相談はお気軽に：週 10 時間ほど・リモート（関西は現地にも伺えます）。X の DM へどうぞ
+- ⚡ Fun fact：バーベキュー大会を立ち上げて、告知のページも自分で作りました
